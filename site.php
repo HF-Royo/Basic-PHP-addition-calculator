@@ -6,7 +6,7 @@
   </head>
   <body>
     
-    < ! ╌ site.php is a file name ╌>
+      <!-- The site.php is a file name -->
     <form action="site.php" method="get">
 
       <input type="number" name="num1">
